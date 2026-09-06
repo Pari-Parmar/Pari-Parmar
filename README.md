@@ -58,7 +58,6 @@ I focus on crafting clean, responsive, and intuitive user interfaces with **Reac
 | 🌍 **GlobeTrotter** | [🌐 Live Website](https://odoo-hackathon-globe-trotter.vercel.app) | [💻 View Code](https://github.com/Pari-Parmar/Odoo-Hackathon-GlobeTrotter) | Multi-city personalized travel itinerary planning app built for **Odoo Hackathon 2026** with an interactive React UI. |
 | ⚡ **Gateway Hackathon Project** | [🌐 Live Website](https://gateway-hackathon-final.vercel.app) | [💻 View Code](https://github.com/Pari-Parmar/Gateway-Hackathon_Final) | Full-featured frontend web app built during the Gateway Hackathon solving modern workflow issues. |
 | 🎓 **EDTech Platform** | Demo in Repo | [💻 View Code](https://github.com/Pari-Parmar/EDTech) | Interactive learning portal featuring course modules, structured lessons, and student dashboard. |
-| 🛡️ **Threat Scanner** | CLI / Utility | [💻 View Code](https://github.com/Pari-Parmar/Threat-Scanner) | Security assessment utility designed to identify system vulnerabilities and configuration issues. |
 
 ---
 
