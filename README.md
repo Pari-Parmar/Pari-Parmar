@@ -55,25 +55,6 @@ I specialize in crafting visually stunning, responsive, and intuitive user inter
 
 ---
 
-## 📊 Real-Time GitHub Analytics
-
-### Live GitHub Stats
-![Parisha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pari-Parmar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)
-
-### Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pari-Parmar&layout=compact&theme=tokyonight&hide_border=true)
-
-### Live Contribution Streak
-![Live Streak Stats](https://streak-stats.demolab.com?user=Pari-Parmar&theme=tokyonight&hide_border=true)
-
-### Real-Time 30-Day Activity Graph
-![Real-time Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Pari-Parmar&theme=tokyo-night&hide_border=true&area=true)
-
-### Daily Developer Quote
-![Dynamic Daily Developer Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
-
 ## 📬 Let's Connect
 
 I am always happy to connect with other developers and designers, discuss UI/UX ideas, or collaborate on hackathons:
