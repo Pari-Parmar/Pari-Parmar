@@ -22,32 +22,26 @@ I focus on crafting clean, responsive, and intuitive user interfaces with **Reac
 - 🎓 **Education:** Pursuing B.Tech in Computer Science & Engineering (7th Semester).
 - 🎨 **Focus Area:** Frontend Development (React) & UI/UX Design (Figma, Wireframing, Responsive Design).
 - ⚙️ **API Integration:** Comfortable connecting frontend components with Node.js and Express REST APIs.
-- 🏆 **Hackathons:** Active builder in events like **Odoo Hackathon 2026** and **Gateway Hackathon**.
+- 🏆 **Hackathons:** Active builder in events like **Odoo Hackathon 2026**, **Gateway Hackathon**, and **Gujarat Police Hackathon**.
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Technical Skills
 
-### 🎨 Frontend
-- HTML
-- CSS
-- JavaScript
-- React
+### 🎨 Frontend Development
+- HTML5, CSS3, JavaScript (ES6+), React.js
+- Responsive Design, Mobile-First Design
 
-### 📐 UI/UX
+### 🎯 UI/UX
+- UI Design, UX Design, Wireframing
 - Figma
-- Wireframing
-- Responsive Design
 
 ### ⚙️ Backend & APIs
-- Node.js
-- Express
-- REST APIs
+- Node.js, Express.js
+- REST APIs, JSON, Postman
 
 ### 🧰 Tools
-- Git
-- GitHub
-- VS Code
+- Git, GitHub, VS Code
 
 ---
 
@@ -58,6 +52,7 @@ I focus on crafting clean, responsive, and intuitive user interfaces with **Reac
 | 🌍 **GlobeTrotter** | [🌐 Live Website](https://odoo-hackathon-globe-trotter.vercel.app) | [💻 View Code](https://github.com/Pari-Parmar/Odoo-Hackathon-GlobeTrotter) | Multi-city personalized travel itinerary planning app built for **Odoo Hackathon 2026** with an interactive React UI. |
 | ⚡ **Gateway Hackathon Project** | [🌐 Live Website](https://gateway-hackathon-final.vercel.app) | [💻 View Code](https://github.com/Pari-Parmar/Gateway-Hackathon_Final) | Full-featured frontend web app built during the Gateway Hackathon solving modern workflow issues. |
 | 🎓 **EDTech Platform** | Demo in Repo | [💻 View Code](https://github.com/Pari-Parmar/EDTech) | Interactive learning portal featuring course modules, structured lessons, and student dashboard. |
+| 🚓 **Police Surveillance Analytics** | In Active Development | [💻 Repository](https://github.com/Pari-Parmar) | Real-time smart surveillance dashboard built with modern React frontend and FastAPI for the **Gujarat Police Hackathon**. |
 
 ---
 
