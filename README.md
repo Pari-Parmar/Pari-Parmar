@@ -1,64 +1,84 @@
-# Hi there, I'm Parisha Parmar 👋
+<h1 align="center">Hi 👋, I'm Parisha Parmar</h1>
 
-![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21,31&height=180&section=header&text=Parisha%20Parmar&fontSize=38&fontColor=ffffff&fontAlignY=40)
+<h3 align="center">
+Frontend Developer • UI/UX Enthusiast • React • Computer Science Engineering Student
+</h3>
 
-[![Real-time Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Frontend+Developer+💻;UI%2FUX+Enthusiast+🎨;React+%26+Modern+Web+✨;Learning+Deeply+%26+Building+Projects+🚀)](https://github.com/Pari-Parmar)
-
-**Frontend Developer | UI/UX Enthusiast | React**
-
-![Live Views](https://komarev.com/ghpvc/?username=Pari-Parmar&style=for-the-badge&color=6366f1&label=LIVE+PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/Pari-Parmar?label=Followers&style=for-the-badge&color=3b82f6&logo=github)
+<p align="center">
+Passionate about crafting clean, intuitive, and responsive digital experiences.
+</p>
 
 ---
 
 ## 👩‍💻 About Me
 
-Hi! I am **Parisha Parmar**, a **Frontend Developer & UI/UX Enthusiast** and a Computer Science & Engineering student currently in my **7th semester**.
+I am a Computer Science Engineering student (7th Semester) with a strong focus on **Frontend Development** and **UI/UX Design**.
 
-> **"I am a frontend developer who is learning deeply and building real-world projects."**
+I enjoy translating ideas into functional, pixel-perfect, and responsive web applications, participating in hackathons, and connecting frontend clients with backend APIs.
 
-I focus on crafting clean, responsive, and intuitive user interfaces with **React, JavaScript, HTML, and CSS**, while understanding how to connect and work with backend **REST APIs**. I enjoy translating ideas into functional digital products, wireframing user journeys, and participating in hackathons.
-
-- 🎓 **Education:** Pursuing B.Tech in Computer Science & Engineering (7th Semester).
-- 🎨 **Focus Area:** Frontend Development (React) & UI/UX Design (Figma, Wireframing, Responsive Design).
-- ⚙️ **API Integration:** Comfortable connecting frontend components with Node.js and Express REST APIs.
-- 🏆 **Hackathons:** Active builder in events like **Odoo Hackathon 2026**, **Gateway Hackathon**, and **Gujarat Police Hackathon**.
+- 🔭 Currently working on interactive web applications and hackathon projects
+- 🌱 Learning advanced UI/UX patterns, state management, and modern component design
+- 💡 Interested in Frontend Engineering, Responsive Web Design, and Micro-interactions
+- 🎯 Goal: Build intuitive, high-performance web products that users love
 
 ---
 
 ## 🛠️ Technical Skills
 
-### 🎨 Frontend Development
-- HTML5, CSS3, JavaScript (ES6+), React.js
-- Responsive Design, Mobile-First Design
+### 🎨 Frontend & UI/UX
 
-### 🎯 UI/UX
-- UI Design, UX Design, Wireframing
-- Figma
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,figma" />
+</p>
 
-### ⚙️ Backend & APIs
-- Node.js, Express.js
-- REST APIs, JSON, Postman
+### ⚙️ Backend & Tools
 
-### 🧰 Tools
-- Git, GitHub, VS Code
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postman,git,github,vscode" />
+</p>
+
+### 📚 Core Knowledge
+
+- User Interface (UI) Design
+- User Experience (UX) & Wireframing
+- Responsive & Mobile-First Design
+- RESTful APIs & JSON
+- Data Structures & Algorithms
+- Object-Oriented Programming
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project | Live Demo | Repository | Description |
-| :--- | :---: | :---: | :--- |
-| 🌍 **GlobeTrotter** | [🌐 Live Website](https://odoo-hackathon-globe-trotter.vercel.app) | [💻 View Code](https://github.com/Pari-Parmar/Odoo-Hackathon-GlobeTrotter) | Multi-city personalized travel itinerary planning app built for **Odoo Hackathon 2026** with an interactive React UI. |
-| ⚡ **Gateway Hackathon Project** | [🌐 Live Website](https://gateway-hackathon-final.vercel.app) | [💻 View Code](https://github.com/Pari-Parmar/Gateway-Hackathon_Final) | Full-featured frontend web app built during the Gateway Hackathon solving modern workflow issues. |
-| 🎓 **EDTech Platform** | Demo in Repo | [💻 View Code](https://github.com/Pari-Parmar/EDTech) | Interactive learning portal featuring course modules, structured lessons, and student dashboard. |
-| 🚓 **Police Surveillance Analytics** | In Active Development | [💻 Repository](https://github.com/Pari-Parmar) | Real-time smart surveillance dashboard built with modern React frontend and FastAPI for the **Gujarat Police Hackathon**. |
+### 🌍 GlobeTrotter – Multi-City Travel Planner
+A personalized multi-city travel planning platform built for the **Odoo Hackathon 2026**.
+- **Highlights:** Dynamic travel scheduling, interactive UI, route organization
+- **Tech Stack:** React, JavaScript, CSS
+- **Links:** [Live Demo](https://odoo-hackathon-globe-trotter.vercel.app) • [Repository](https://github.com/Pari-Parmar/Odoo-Hackathon-GlobeTrotter)
+
+### ⚡ Gateway Hackathon Application
+A modern full-featured web application built during the **Gateway Hackathon** solving workflow challenges.
+- **Highlights:** Clean responsive layouts, real-time feedback, API integration
+- **Tech Stack:** React, JavaScript, Web APIs
+- **Links:** [Live Demo](https://gateway-hackathon-final.vercel.app) • [Repository](https://github.com/Pari-Parmar/Gateway-Hackathon_Final)
+
+### 🎓 EDTech – Interactive Learning Platform
+An educational portal designed for modular online learning, student course discovery, and structured lessons.
+- **Highlights:** Interactive course modules, responsive dashboard, clean design
+- **Tech Stack:** React, Node.js, Express
+- **Link:** [Repository](https://github.com/Pari-Parmar/EDTech)
+
+### 🚓 Police Surveillance Analytics
+A real-time smart surveillance dashboard built for the **Gujarat Police Hackathon**.
+- **Highlights:** Real-time data visualization, monitoring interface, API endpoints
+- **Tech Stack:** React, FastAPI, Python
+- **Status:** In Active Development
 
 ---
 
 ## 🤖 Responsible AI Usage
 
-I use modern AI tools (such as GitHub Copilot and LLMs) responsibly as learning and productivity assistants—to explore design patterns, brainstorm user flows, and troubleshoot errors. My primary focus remains on understanding core fundamentals, writing clean code myself, and deeply understanding the architecture behind everything I build.
+I use modern AI tools (like GitHub Copilot and LLMs) responsibly as learning and productivity assistants—to explore design patterns, brainstorm user flows, and troubleshoot errors—while prioritizing a deep understanding of core frontend fundamentals.
 
 ---
 
@@ -72,4 +92,6 @@ I am always happy to connect, discuss frontend design ideas, or collaborate on h
 
 ---
 
-⭐ **Thank you for visiting! Feel free to explore my repositories or drop me a message.**
+<p align="center">
+  <i>⭐ Thank you for visiting! Feel free to explore my repositories or drop me a message.</i>
+</p>
