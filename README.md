@@ -88,7 +88,7 @@ I am always happy to connect, discuss frontend design ideas, or collaborate on h
 
 - **LinkedIn:** [linkedin.com/in/pari-parmar](https://www.linkedin.com/in/pari-parmar)
 - **GitHub:** [github.com/Pari-Parmar](https://github.com/Pari-Parmar)
-- **Email:** [parmarrparisha@gmail.com](mailto:parmarrparisha@gmail.com)
+- **Email:** [parmarrparisha239@gmail.com](mailto:parmarrparisha239@gmail.com)
 
 ---
 
